@@ -6,8 +6,7 @@
     #'
     #' @param r The radius of the circle to
     #'   be plotted
-    #' 
-    #' @param r2 haha    
+    #'    
     #'
     #' @return None The function is called
     #'   solely for its side effect
