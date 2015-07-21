@@ -9,8 +9,6 @@ plotCircleRed(r = 1)
 \arguments{
 \item{r}{The radius of the circle to
   be plotted}
-
-\item{r2}{haha}
 }
 \value{
 None The function is called
