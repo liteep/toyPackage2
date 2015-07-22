@@ -25,5 +25,6 @@ plotStar <- function(r=1){
     plot(r*x, r*y, type="l", main=paste0("A Circle of Radius ", r),col="red")
 }
 #
-#
+# This makes a circle! 
+# Thanks for the chance to practice making a change.
 #
